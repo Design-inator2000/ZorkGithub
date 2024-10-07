@@ -12,7 +12,6 @@ C:\Users\alexa\Documents\TnP Projects\Zork\Zork\Zork\obj\Debug\net8.0\refint\Zor
 C:\Users\alexa\Documents\TnP Projects\Zork\Zork\Zork\obj\Debug\net8.0\Zork.pdb
 C:\Users\alexa\Documents\TnP Projects\Zork\Zork\Zork\obj\Debug\net8.0\Zork.genruntimeconfig.cache
 C:\Users\alexa\Documents\TnP Projects\Zork\Zork\Zork\obj\Debug\net8.0\ref\Zork.dll
-C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\bin\Debug\net8.0\Rooms.txt
 C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\bin\Debug\net8.0\Zork.exe
 C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\bin\Debug\net8.0\Zork.deps.json
 C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\bin\Debug\net8.0\Zork.runtimeconfig.json
@@ -28,3 +27,8 @@ C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\obj\Debug\net8.0
 C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\obj\Debug\net8.0\Zork.pdb
 C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\obj\Debug\net8.0\Zork.genruntimeconfig.cache
 C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\obj\Debug\net8.0\ref\Zork.dll
+C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\bin\Debug\net8.0\Rooms2.txt
+C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\bin\Debug\net8.0\Rooms.json
+C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\obj\Debug\net8.0\Zork.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\TnP Projects\Zork\ZorkGithub\Zork\Zork\obj\Debug\net8.0\Zork.csproj.Up2Date

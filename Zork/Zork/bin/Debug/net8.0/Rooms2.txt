@@ -1,0 +1,9 @@
+Rocky Trail##You are on a rock-strewn trail.
+South of Castle##You are facing the south side of a castle. The castle moat blocks access from this side.
+Pit##You are at the top of a giant pit.
+Twisted Forest##This is a dark and creepy forest, with tall trees casting swirling shadows down around you.
+West of Castle##This is an open field west of a castle, with a deep moat and a raised iron bridge.
+Behind Castle##You are behind the castle. A rickety ladder lies across the moat, leading to a hole in the castle's outer wall.
+Dense Woods##This is a dimly lit forest, with large trees all around. To the east, there appears to be sunlight.
+North of Castle##You are facing the north side of a castle. The castle moat blocks access from this side.
+Clearing##You are in a clearing, with a forest surrounding you on the west and south.
